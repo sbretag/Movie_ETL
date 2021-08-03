@@ -1,4 +1,4 @@
-# Movies_ETL
+#Movies_ETL
 
 ##Background
 The purpose of this project is to create an ETL function to extra movie related data from 3 different files, 2 from CSV files and 1 from a JSON file, transform and clean the data, then load into a SQL database.  Please see the following deliverables.
@@ -6,7 +6,6 @@ The purpose of this project is to create an ETL function to extra movie related 
   2. Extract and transform the wikipedia movie data
   3. Extract and transform the kaggle data
   4. Create the moview database
-
 
 ##Resources
 - Software: Python 3.8.8,  Postgres/pgAdmin4 , Jupyter Lab
